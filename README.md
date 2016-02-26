@@ -13,7 +13,7 @@ Features:
 * it's small (a little over 300 lines of code!)
 * it's easy to integrate (only 1 header file)
 * has SKIP option to skip certain test (no commenting test out anymore)
-* Linux + OS/X support
+* Linux + OS/X + Windows MSVC support
 
 ![Sample output](ctest_output.png)
 
